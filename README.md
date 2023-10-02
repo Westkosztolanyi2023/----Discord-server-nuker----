@@ -1,2 +1,3 @@
 # ----Discord-server-nuker----
-- !!! BETA !!! -
+
+... COMING SOON ...
